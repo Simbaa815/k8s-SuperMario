@@ -1,4 +1,5 @@
 # Super Mario Deployment on Kubernetes using Terraform
+![1706648159635](https://github.com/Simbaa815/k8s-SuperMario/assets/112085387/e74bf653-7856-466d-8b13-9b9b4b8faa03)
 
 🎮 Excited to share my latest project: Deployment of Super Mario on Kubernetes using Terraform! 🌟🚀
 
